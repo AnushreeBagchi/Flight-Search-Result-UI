@@ -1,4 +1,4 @@
-# Skyscanner full-stack recruitment test
+# Flight search results
 
 This [task](#task) to create a basic flight results front-end site to show flight prices
 
